@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Mahasiswa from './Layouts/AdminLayout.jsx';
+import Mahasiswa from './Layouts/AdminLayout.jsx'; //Import AdminLayout
 
 const App = () => {
   return (
